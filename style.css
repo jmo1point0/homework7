@@ -1,0 +1,100 @@
+
+
+
+
+#watchlist {
+    padding: 20px;
+    height: 400px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+footer {
+    position: sticky;
+    bottom: 0;
+    padding: 20px;
+}
+
+
+.card {
+height: auto;
+border: 1px solid gray;
+padding: 20px;
+width: 100%;
+margin-bottom: 10px;
+margin-top: 5px;
+}
+
+#companyName {
+    text-align:center;
+}
+h3 {
+    text-align:center;
+
+}
+
+#port0 {
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+}
+#newsstory0 {
+    color: grey;
+    text-align: center;
+}
+
+#port1 {
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+}
+#port2 {
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color:blue;
+}
+
+
+li {
+    list-style-type: none;
+    background: lightgray;
+    border: 1px solid gray;
+
+}
+li button {
+    width: 100%;
+}
+.card-header {
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+
+}
+.img {
+    width: 100px;
+    height: 100px
+}
+
+h5 {
+    color: black;
+    text-align: center;
+}
+
+
+#porfolio {
+    height: 400px;
+}
+
+
+#newsMain{
+    margin: 0px 10px 0px 10px
+}
+
