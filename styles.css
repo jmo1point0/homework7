@@ -1,0 +1,36 @@
+.card {
+    height: auto;
+    border: 1px solid gray;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    }
+
+    #port0 {
+        height: 100%;
+        padding: 10px;
+        height: 100%;
+        
+    }
+    
+    
+    #port1 {
+        height: 100%;
+        padding: 10px;
+        margin: 5px;
+    }
+
+    #port2 {
+        height: 100%;
+        padding: 10px;
+        margin: 5px;
+    }
+
+   #indexcard {
+ 
+    
+    
+
+   }
+
+ 
